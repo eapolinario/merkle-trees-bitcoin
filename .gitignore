@@ -1,0 +1,5 @@
+.direnv/
+/bin/
+/data/
+/result
+/result-*
